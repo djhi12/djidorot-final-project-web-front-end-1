@@ -1,0 +1,39 @@
+
+
+/*
+SECTION-2
+*/
+/*----scooter-rental-1*/
+.scooter-rental-1 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  max-width: 300px;
+  margin: auto;
+}
+
+.scooter-rental-1:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container-1 {
+    padding: 2px 16px;
+}
+
+.img-scooter-1-500 {
+    width: 100%;
+}
+
+.h1-scooter {
+    text-align: center;
+}
+
+.h3-scooter {
+    text-align: left;
+}
+
+.par-scooter {
+    text-align: left;
+    font-size: 15px;
+}
+
+
