@@ -6,7 +6,7 @@ SECTION-2
 
 .grid-scooter-rental {
     display: grid;
-    grid-template-columns: .5fr .5fr .5fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 /*----scooter-rental-1*/
@@ -94,7 +94,7 @@ SECTION-2
 
 
   /*----scooter-rental-5*/
-.scooter-rental-4 {
+.scooter-rental-5 {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     max-width: 300px;
@@ -115,7 +115,7 @@ SECTION-2
 
 
   /*----scooter-rental-6*/
-.scooter-rental-4 {
+.scooter-rental-6 {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
     max-width: 300px;
